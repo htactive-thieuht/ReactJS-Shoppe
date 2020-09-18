@@ -1,0 +1,78 @@
+.contentPayment{
+    background-color: whitesmoke;
+    height: 100vh;
+}
+.contentDetailsss{
+    /* height: 200px; */
+    margin: 60px;
+    background-color: white;
+}
+.address{
+    align-items: center;
+    padding-left: 100px;
+    height: 40px;
+    margin: 60px;
+    margin-top: 10px;
+    background-color: white; 
+} 
+.contents{
+    background-color: whitesmoke;
+} 
+.totalPrice{
+    align-items: center;
+    padding-left: 200px;
+    height: 40px;
+    margin: 60px;
+    margin-top: 7px;
+    background-color: white; 
+} 
+.buttonss {
+    margin-right: 0px;
+    /* padding-right: 206px; */
+    width: 500px;
+    height: 50px;
+    padding: 5px;
+    margin-left: 1165px;
+}
+.button2{
+    height: 50px;
+    width: 100%;
+    background-color: orangered;
+}
+.button1{
+    margin-top: -5px;
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
+.coool{
+   padding: 5px;
+} 
+/********************************checkout*************************/
+.input {
+    margin-left: 76px;
+    width: 76%;
+    height: 40px;
+    margin-top: 10px;
+    background-color: whitesmoke;
+}
+.information{
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.contentcheckout{
+    height: 300px;
+    margin: 60px;
+    background-color: white;
+}
+
+/***************************PurchaseOrder*******************************/
+.all_purchaseOder {
+    padding-top: 1px;
+    margin-left: 265px;
+    margin-right: -4px;
+    background-color: whitesmoke;
+    margin-bottom: 33px;
+    margin-top: 10px;
+}

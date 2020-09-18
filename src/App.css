@@ -1,0 +1,230 @@
+
+/* Hompage*/
+.contents {
+  width: 100%; 
+   height: 100%;
+  /* align-items: center; */
+  /* margin: -11px;
+  padding: 20px; */
+}
+/* Header*/
+img.logo {
+  width: 214px;
+  height: 77px;
+  margin-left: 50px;
+}
+img.logos {
+  margin-top: 5px;
+  width: 214px;
+  height: 77px;
+  margin-left: 50px;
+}
+.vertical-menu {
+  width: 100%;
+}
+.vertical-menu a {
+  color: white;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  float: left 
+}
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+.vertical-menu a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.header {
+  background-color: orangered;
+  width: 100%;
+  height: 160px;
+  color:white
+}
+.headeradd{
+  background-color: orangered;
+  width: 100%;
+  height: 100px;
+  color:white;
+  align-content: center;
+}
+.addhearder{
+  margin-top:15px;
+}
+.logoadd{
+  margin-top:5px;
+}
+.center{
+  padding: 5px;
+  margin: 5px;
+}
+.centers{
+  padding: 5px;
+  margin: 5px;
+}
+.center-top{
+  float: right;
+}
+.center-bottom{
+  padding-left: 541px;
+}
+.divIconCard{
+  font-size: 40px;
+  margin-left: 20px
+}
+.all_contents {
+  padding-top: 1px;
+  margin-left: 90px;
+  margin-right: 87px;
+  background-color: whitesmoke;
+  margin-bottom: 33px;
+  margin-top: 10px;
+}
+/* footer*/
+.contents_footer {
+  border-top: 5px solid orangered;
+}
+.footers{
+  padding: 10px;
+  margin-left: 68px;
+  margin-right: 68px
+}
+.footerContent{
+  padding: 20px;
+}
+/*slider*/
+.slider{
+  padding: 10px;
+  margin-left: 35px;
+  margin-right: 35px
+}
+.slidersMenu{
+  margin-top: -17px;
+  padding: 10px;
+  margin-left: 35px;
+  margin-right: 35px
+}
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 400px;
+  line-height: 400px;
+  background: #364d79;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+.slider1{
+  margin-left: 5px;
+  height: 177px;
+}
+.slider1 .benner {
+  width: 100%;
+  height: 177px;
+}
+.slider2{
+  margin-left: 5px;
+  height: 218px;
+  margin-top: 5px
+}
+.slider2 .benner {
+  width: 100%;
+  height: 219px;
+}
+ant-carousel .slick-slide img{
+    display: block;
+    width: 100%;
+    height: 400px;
+    /* box-shadow: 0 0 black; */
+}
+.danhmuc{
+  margin-top: 12px;
+  background-color: whitesmoke;
+}
+.slideCon{
+  margin-top: 12px;
+  width: 100%;
+  height: 250px;
+}
+.menucons{
+  align-content: center;
+}
+.imageMenumain{
+  width: 70px;
+  height: 50px;
+}
+.vertical-menus {
+  width: 100%;
+}
+.vertical-menus a {
+  color: black;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  float: left 
+}
+.vertical-menus a:hover {
+  background-color: #ccc;
+}
+.vertical-menus a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/************************detailProduct******************/
+.danhmucs{
+  margin-top: 12px;
+  background-color: white;
+}
+.vertical-menuss {
+  width: 100%;
+  
+}
+.vertical-menuss a {
+  color: black;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  float: left 
+}
+.vertical-menuss a:hover {
+  background-color: white;
+}
+.vertical-menuss a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.contentDetail{
+  background-color: whitesmoke;
+}
+.contentpicture{
+  background-color: white;
+  margin: 60px;
+}
+.contentPrices{
+  background-color: whitesmoke;
+  margin-right: 70px;
+}
+label{
+  background-color: orangered;
+}
+.buttomButtom{
+  padding-top: 10px;
+}
+.contentPricesss{
+  padding-top: 10px;
+  margin-right: 70px;
+}
+.contentpictureMain{
+  margin-left: 5px;
+  margin-top: 5px;
+  width: 400px;
+  height: 400px;
+}
+.contentDetailss{
+  height: 200px;
+  margin: 60px;
+  background-color: white;
+}

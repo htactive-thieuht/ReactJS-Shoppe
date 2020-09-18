@@ -1,0 +1,51 @@
+.divManage{
+    width: 100%;
+    height: 100%;
+}
+.headerMain{
+    width:100%;
+}
+
+.menuAdmin{
+    background-color:orangered;
+    height: 1000px;
+    width: 800px;
+    /* border-top: 1px solid white; */
+}
+.headeradminmain{
+    background-color: orange;
+    height: 80px;
+}
+.headeradmin{
+    height: 55px;
+    width:100%;
+    background-color: orange;
+    padding-top: 10px;
+}
+.divManage{
+    display: flex;
+}
+.divDataMana{
+    margin-left: 14%;
+}
+.divMenus{
+    display: flex;
+}
+.divMenus a{
+    padding-left: 30px;
+    float: right;
+}
+/* ---------------Table----------- */
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 1090px;
+
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;    
+  }
+.divTable{
+    margin-top: 20px;
+}

@@ -1,0 +1,62 @@
+
+.buttn {
+    background-color:orangered;
+    text-align: center;
+    cursor: pointer;
+} 
+.button:hover {
+    background-color: rgb(224, 39, 39);
+} 
+
+.contentLetter h3{
+    color: orangered;
+}
+
+.thubanailImge {
+    width: 272px;
+    height: 201px;
+}
+.thubanailImge, .index{
+    position: absolute;
+}
+.thubanailImge {
+    z-index: 2;
+}
+.index {
+    z-index: 3;
+}
+.img {
+    width: 100%;
+    height: 100%;
+}
+.image-first{
+    width: 272px;
+    height: 205px;
+}
+.thumbanailsMain {
+    position: relative;
+    width: 273px;
+    height: 327px;
+    background-color: white;
+}
+.thumbanail{
+    position: relative;
+    width: 272px;
+    height: 201px;
+}
+.thumbanailcontent {
+    position: absolute;
+    width: 204p;
+    width: inherit;
+    height: 119px;
+}
+.contentButton2{
+    float: right;
+}
+.contentLetter{
+    float: left;
+}
+.abcss{
+    height: 91px;
+    padding: 16px;
+}
